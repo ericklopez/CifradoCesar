@@ -42,7 +42,7 @@ void encriptar(char frase[MAX],int numero)
         frase[i]=frase[i]+numero;
         i++;
     }
-    printf("\nLa frase encriptado es:\n%s\n",frase);
+    printf("\nLa frase encriptada es:\n%s\n",frase);
 }
 
 //Función para desencriptar Cifrado Cesar en C
